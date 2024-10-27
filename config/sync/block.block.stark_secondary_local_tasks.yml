@@ -1,13 +1,13 @@
-uuid: f05b6cb4-1773-4eb2-a22d-faf6e6a56ab1
+uuid: c6a8e1b3-d19c-49cb-b98e-0576b907da45
 langcode: en
 status: true
 dependencies:
   theme:
-    - olivero
+    - stark
 _core:
   default_config_hash: ydSxdq7R66I8UMC460rOzlfzvlUL4VRbdwc6z9DWaUI
-id: olivero_secondary_local_tasks
-theme: olivero
+id: stark_secondary_local_tasks
+theme: stark
 region: highlighted
 weight: -2
 provider: null

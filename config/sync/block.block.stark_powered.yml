@@ -1,16 +1,16 @@
-uuid: cb8ee26f-a3c7-40f1-bbd3-a1af9f3c1886
+uuid: 5a610384-1df5-4619-ab06-ffc2fbe1ef33
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - olivero
+    - stark
 _core:
   default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
-id: olivero_powered
-theme: olivero
-region: footer_bottom
+id: stark_powered
+theme: stark
+region: sidebar_first
 weight: 0
 provider: null
 plugin: system_powered_by_block

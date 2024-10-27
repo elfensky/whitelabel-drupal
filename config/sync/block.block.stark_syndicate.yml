@@ -1,16 +1,16 @@
-uuid: c7e8a5ea-8142-4ed9-90c0-74c93cf614bf
+uuid: 8f3e5cf8-b6b1-44ba-8290-5ef9426915d4
 langcode: en
 status: true
 dependencies:
   module:
     - node
   theme:
-    - olivero
+    - stark
 _core:
   default_config_hash: 0gq3VPg-_UM69FCCWurLFIrrnIjC2HLKhwo9iQNtcUo
-id: olivero_syndicate
-theme: olivero
-region: social
+id: stark_syndicate
+theme: stark
+region: sidebar_first
 weight: 0
 provider: null
 plugin: node_syndicate_block

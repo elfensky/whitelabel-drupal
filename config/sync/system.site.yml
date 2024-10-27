@@ -3,7 +3,7 @@ _core:
 langcode: en
 uuid: dd53a5d2-dcdb-470d-b7ab-2673e1a34c85
 name: whitelabel
-mail: drupal@lavrenov.io
+mail: whitelabel+drupal@lavrenov.io
 slogan: ''
 page:
   403: ''

@@ -1,4 +1,4 @@
-uuid: b12eb79b-36f7-4606-a56c-2cca73c2e21e
+uuid: 0fd57cf3-548c-457c-b561-2082884dc1a8
 langcode: en
 status: true
 dependencies:
@@ -7,11 +7,11 @@ dependencies:
   module:
     - system
   theme:
-    - olivero
+    - stark
 _core:
   default_config_hash: gmxYWWHmgbe0Pnv8y48ZLSLH5mEHejOjAP6RLxUfdzU
-id: olivero_account_menu
-theme: olivero
+id: stark_account_menu
+theme: stark
 region: secondary_menu
 weight: -4
 provider: null

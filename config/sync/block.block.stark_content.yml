@@ -1,15 +1,15 @@
-uuid: f3077031-8df3-4180-a420-c453a778807f
+uuid: 7e65f2d8-fb12-457f-9a69-3489d6b3e9ba
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - olivero
+    - stark
 _core:
   default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
-id: olivero_content
-theme: olivero
+id: stark_content
+theme: stark
 region: content
 weight: 0
 provider: null
