@@ -1,0 +1,18 @@
+uuid: 1e2a6692-b345-4939-a439-0cc2e8db9232
+langcode: en
+status: true
+dependencies: {  }
+id: smtp
+label: 'Amazon SES'
+plugin: smtp
+configuration:
+  user: AKIARBJCUB5RXF52C6OE
+  pass: BP2Yka2zymy/KP1Zjcfaf+FgHdvhVALXLs1/ZabOFQNY
+  host: email-smtp.eu-central-1.amazonaws.com
+  port: 587
+  query:
+    verify_peer: true
+    local_domain: ''
+    restart_threshold: null
+    restart_threshold_sleep: null
+    ping_threshold: null

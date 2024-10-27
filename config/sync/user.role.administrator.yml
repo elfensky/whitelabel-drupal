@@ -1,0 +1,74 @@
+uuid: 940e26ab-58ee-4345-b20e-ca9119ae5e0a
+langcode: en
+status: true
+dependencies:
+  config:
+    - filter.format.email_html
+  module:
+    - block
+    - config_translation
+    - content_translation
+    - devel
+    - devel_generate
+    - file
+    - filter
+    - language
+    - locale
+    - node
+    - symfony_mailer
+    - system
+    - toolbar
+    - update
+id: administrator
+label: Administrator
+weight: 2
+is_admin: null
+permissions:
+  - 'access administration pages'
+  - 'access content overview'
+  - 'access devel information'
+  - 'access files overview'
+  - 'access site in maintenance mode'
+  - 'access site reports'
+  - 'access toolbar'
+  - 'access user profiles'
+  - 'administer account settings'
+  - 'administer actions'
+  - 'administer blocks'
+  - 'administer content translation'
+  - 'administer content types'
+  - 'administer devel_generate'
+  - 'administer filters'
+  - 'administer languages'
+  - 'administer mailer'
+  - 'administer menu'
+  - 'administer modules'
+  - 'administer nodes'
+  - 'administer permissions'
+  - 'administer site configuration'
+  - 'administer software updates'
+  - 'administer themes'
+  - 'administer users'
+  - 'bypass node access'
+  - 'cancel account'
+  - 'change own username'
+  - 'create content translations'
+  - 'delete all revisions'
+  - 'delete any file'
+  - 'delete content translations'
+  - 'delete own files'
+  - 'link to any page'
+  - 'revert all revisions'
+  - 'select account cancellation method'
+  - 'switch users'
+  - 'translate any entity'
+  - 'translate configuration'
+  - 'translate editable entities'
+  - 'translate interface'
+  - 'update content translations'
+  - 'use text format email_html'
+  - 'view all revisions'
+  - 'view own unpublished content'
+  - 'view the administration theme'
+  - 'view update notifications'
+  - 'view user email addresses'
