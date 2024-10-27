@@ -1,0 +1,11 @@
+uuid: 32b7c9f2-a720-49ab-bb0c-22da77b499c4
+langcode: en
+status: true
+dependencies: {  }
+name: article
+type: article
+description: 'A blog post or news article, used for SEO, to pad website content and for actual announcements. '
+help: null
+new_revision: true
+preview_mode: 1
+display_submitted: true
