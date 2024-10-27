@@ -16,14 +16,21 @@
     ],
     "require": {
         "composer/installers": "^2.0",
+        "drupal/admin_toolbar": "^3.5",
         "drupal/core-composer-scaffold": "^11.0",
         "drupal/core-project-message": "^11.0",
-        "drupal/core-recommended": "^11.0"
+        "drupal/core-recommended": "^11.0",
+        "drupal/gin": "^3.0@RC",
+        "drupal/gin_toolbar": "^1.0@RC",
+        "drush/drush": "^13.3"
+    },
+    "require-dev": {
+        "drupal/devel": "^5.3"
     },
     "conflict": {
         "drupal/drupal": "*"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
         "allow-plugins": {
