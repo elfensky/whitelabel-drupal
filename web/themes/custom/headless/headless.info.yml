@@ -1,0 +1,12 @@
+name: Headless
+type: theme
+description: "A theme for decoupled headless drupal, focused on JSON:API."
+core_version_requirement: ">=11"
+# libraries:
+#   - fluffiness/global-styling
+base theme: stark
+regions:
+  header: "Header"
+  content: "Content"
+  sidebar_first: "Sidebar first"
+  footer: "Footer"
