@@ -1,4 +1,4 @@
-uuid: 0a42929e-fc6d-4398-84f7-04d3cc365be2
+uuid: 035cf460-e950-4f30-b747-1bd62d1ba8de
 langcode: en
 status: true
 dependencies:
@@ -7,11 +7,11 @@ dependencies:
   theme:
     - stark
 _core:
-  default_config_hash: n_nlgjggHVfQt2H__zvLOKB2YtjPDbQ5tHijF9LE1aM
+  default_config_hash: qNwx3jobxnB9WNt9kK1e1JTZOEOfgLuTckcXET9H_ZM
 id: stark_site_branding
 theme: stark
 region: header
-weight: 0
+weight: -7
 provider: null
 plugin: system_branding_block
 settings:

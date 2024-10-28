@@ -1,15 +1,15 @@
-uuid: afd8c136-2ad2-4224-a443-42c9fba720d4
+uuid: 634a6c52-741b-42c8-9ce2-e4ed513e199b
 langcode: en
 status: true
 dependencies:
   theme:
     - stark
 _core:
-  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+  default_config_hash: '-NCTgzPKThhfv2fpKuhcIFPOvxe7yoj7y0cwELL4-14'
 id: stark_primary_admin_actions
 theme: stark
-region: highlighted
-weight: -5
+region: content
+weight: -6
 provider: null
 plugin: local_actions_block
 settings:

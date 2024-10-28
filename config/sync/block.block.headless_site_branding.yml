@@ -1,0 +1,25 @@
+uuid: bd6cb8a8-1e2a-467b-987e-0c30b1dac533
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - headless
+_core:
+  default_config_hash: qNwx3jobxnB9WNt9kK1e1JTZOEOfgLuTckcXET9H_ZM
+id: headless_site_branding
+theme: headless
+region: header
+weight: -7
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  label_display: '0'
+  provider: system
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }

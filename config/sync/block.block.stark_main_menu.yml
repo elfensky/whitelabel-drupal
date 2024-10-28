@@ -1,4 +1,4 @@
-uuid: 1bfa344d-c420-4513-8cb7-7d76127f3b79
+uuid: 49c00cc0-3400-4e42-b16d-d60e61afcaea
 langcode: en
 status: true
 dependencies:
@@ -9,11 +9,11 @@ dependencies:
   theme:
     - stark
 _core:
-  default_config_hash: KWAiziL39uEzmOJEql_wbUP2RtqGceL3WM2CfxhMelE
+  default_config_hash: RpymocowFF4GfkKbuVRgvhELkIAshHXFKYV7texvx2E
 id: stark_main_menu
 theme: stark
 region: primary_menu
-weight: 0
+weight: -6
 provider: null
 plugin: 'system_menu_block:main'
 settings:

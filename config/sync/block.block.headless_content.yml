@@ -1,0 +1,22 @@
+uuid: 7e8d491a-1703-4e18-8ff2-e9233ee191c0
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - headless
+_core:
+  default_config_hash: CiBjSwgbxabxP53O64ow0A0qaiek4K_ypLQ-jg4Xfn0
+id: headless_content
+theme: headless
+region: content
+weight: -3
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,11 @@
+uuid: 202e15c3-333f-4e62-b880-44ac11c5ec8b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FGYrs0ZrjxSzRQMODyYqquV1UW5MN7S5wUG0Dp_OxWU
+id: online
+label: Online
+traits: {  }
+locked: false
+description: 'A digital-only store, without a physical location.'

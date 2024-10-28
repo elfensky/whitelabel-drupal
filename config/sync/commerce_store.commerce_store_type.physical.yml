@@ -1,0 +1,9 @@
+uuid: 7c7b9844-3ad1-40a7-a24d-60ed9025ceb8
+langcode: nl
+status: true
+dependencies: {  }
+id: physical
+label: Physical
+traits: {  }
+locked: false
+description: 'A physical location in the real world, where people can get their stuff in person. '

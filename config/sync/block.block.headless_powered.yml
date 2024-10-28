@@ -1,0 +1,22 @@
+uuid: ad2b3cd1-c6b5-404f-85f7-66e20ef31cd1
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - headless
+_core:
+  default_config_hash: Sq4yYlo6bDXG7m-p9Tpv2IwdvWjxwbjssiZZmpscKeo
+id: headless_powered
+theme: headless
+region: sidebar_first
+weight: -7
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

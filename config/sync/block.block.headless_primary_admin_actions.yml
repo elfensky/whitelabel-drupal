@@ -1,0 +1,20 @@
+uuid: 14bcdcd0-1e35-410d-9e6e-44e3a5d09d4c
+langcode: en
+status: true
+dependencies:
+  theme:
+    - headless
+_core:
+  default_config_hash: '-NCTgzPKThhfv2fpKuhcIFPOvxe7yoj7y0cwELL4-14'
+id: headless_primary_admin_actions
+theme: headless
+region: content
+weight: -6
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

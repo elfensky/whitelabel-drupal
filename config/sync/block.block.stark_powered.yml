@@ -1,4 +1,4 @@
-uuid: 5a610384-1df5-4619-ab06-ffc2fbe1ef33
+uuid: ac4eed2a-bac3-4bb2-a359-b922cd802939
 langcode: en
 status: true
 dependencies:
@@ -7,11 +7,11 @@ dependencies:
   theme:
     - stark
 _core:
-  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+  default_config_hash: Sq4yYlo6bDXG7m-p9Tpv2IwdvWjxwbjssiZZmpscKeo
 id: stark_powered
 theme: stark
 region: sidebar_first
-weight: 0
+weight: -7
 provider: null
 plugin: system_powered_by_block
 settings:

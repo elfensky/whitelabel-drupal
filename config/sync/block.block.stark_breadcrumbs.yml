@@ -1,4 +1,4 @@
-uuid: da8ede25-dffe-4b18-aa3f-0d8d655aaf6d
+uuid: 0cb7a2a4-25c6-4b9e-b336-1d3b322c33c9
 langcode: en
 status: true
 dependencies:
@@ -7,7 +7,7 @@ dependencies:
   theme:
     - stark
 _core:
-  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+  default_config_hash: Bux6OyrxjA_3UNQ6u6WHS-IV_Kuv7jpR0iJ3BwnNtFA
 id: stark_breadcrumbs
 theme: stark
 region: breadcrumb
