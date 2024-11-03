@@ -1,16 +1,16 @@
-uuid: 0cb7a2a4-25c6-4b9e-b336-1d3b322c33c9
+uuid: fd3f2505-d565-46c8-8bfa-0029f52e25b6
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - stark
+    - whitelabel
 _core:
   default_config_hash: Bux6OyrxjA_3UNQ6u6WHS-IV_Kuv7jpR0iJ3BwnNtFA
-id: stark_breadcrumbs
-theme: stark
-region: breadcrumb
+id: whitelabel_breadcrumbs
+theme: whitelabel
+region: header
 weight: 0
 provider: null
 plugin: system_breadcrumb_block

@@ -1,0 +1,20 @@
+name: whitelabel
+type: theme
+base theme: claro
+description: A theme with tailwind support, used as a starting point for a website&#039;s custom theme.
+package: Custom
+core_version_requirement: ^10 || ^11
+libraries:
+  - whitelabel/global
+regions:
+  header: 'Header'
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  featured: 'Featured'
+  breadcrumb: 'Breadcrumb'
+  content: 'Content'
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  footer: 'Footer'

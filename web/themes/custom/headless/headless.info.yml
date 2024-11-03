@@ -4,7 +4,7 @@ description: "A theme for decoupled headless drupal, focused on JSON:API."
 core_version_requirement: ">=11"
 # libraries:
 #   - fluffiness/global-styling
-base theme: stark
+base theme: claro
 regions:
   header: "Header"
   content: "Content"

@@ -1,16 +1,16 @@
-uuid: 0d089070-672d-40c1-bfb6-339f0a1f2caf
+uuid: ee6eaef9-55bb-4307-b402-dc4cff731925
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - stark
+    - whitelabel
 _core:
   default_config_hash: HcmK2CYcBEMGKELu4E1FF45G06oaVV0VfjYJD3seN80
-id: stark_messages
-theme: stark
-region: highlighted
+id: whitelabel_messages
+theme: whitelabel
+region: header
 weight: -6
 provider: null
 plugin: system_messages_block

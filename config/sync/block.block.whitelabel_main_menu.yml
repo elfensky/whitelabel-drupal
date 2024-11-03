@@ -1,4 +1,4 @@
-uuid: 49c00cc0-3400-4e42-b16d-d60e61afcaea
+uuid: 37c1b732-d122-4f0c-8194-95fecc9af369
 langcode: en
 status: true
 dependencies:
@@ -7,12 +7,12 @@ dependencies:
   module:
     - system
   theme:
-    - stark
+    - whitelabel
 _core:
   default_config_hash: RpymocowFF4GfkKbuVRgvhELkIAshHXFKYV7texvx2E
-id: stark_main_menu
-theme: stark
-region: primary_menu
+id: whitelabel_main_menu
+theme: whitelabel
+region: header
 weight: -6
 provider: null
 plugin: 'system_menu_block:main'

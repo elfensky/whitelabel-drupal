@@ -1,4 +1,4 @@
-uuid: 392f17d9-58e4-4f66-954f-16bde6593e13
+uuid: 7c9bf25e-1676-4c84-83f0-37a52fee0c71
 langcode: en
 status: true
 dependencies:
@@ -7,12 +7,12 @@ dependencies:
   module:
     - system
   theme:
-    - stark
+    - whitelabel
 _core:
   default_config_hash: DqPqol-baCH3c_DZ7VSOHlQXmGSAeu2Yvir7jBjEA0s
-id: stark_account_menu
-theme: stark
-region: secondary_menu
+id: whitelabel_account_menu
+theme: whitelabel
+region: header
 weight: -7
 provider: null
 plugin: 'system_menu_block:account'

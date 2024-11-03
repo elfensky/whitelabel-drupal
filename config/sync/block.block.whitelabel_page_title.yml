@@ -1,13 +1,13 @@
-uuid: 0f3fbdbf-dd8e-4094-a6ba-eb60cbc18392
+uuid: 8a179ffb-7ffe-48c9-b071-d0bd17cbe582
 langcode: en
 status: true
 dependencies:
   theme:
-    - stark
+    - whitelabel
 _core:
   default_config_hash: ZLwaMCxwNV9tLe42mzTSE9c-4e9IpFsNJOwPtfyZu9I
-id: stark_page_title
-theme: stark
+id: whitelabel_page_title
+theme: whitelabel
 region: content
 weight: -7
 provider: null

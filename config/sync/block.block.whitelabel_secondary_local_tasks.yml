@@ -1,13 +1,13 @@
-uuid: 3cbeaca7-075f-41ce-8d76-59a50028d4c9
+uuid: 17550cc7-f98f-424d-8136-f2d15813a8f2
 langcode: en
 status: true
 dependencies:
   theme:
-    - stark
+    - whitelabel
 _core:
   default_config_hash: _jXWDSUVGFutGTWBPj0bwRUIHPdrvKa16NuzEPDLDxQ
-id: stark_secondary_local_tasks
-theme: stark
+id: whitelabel_secondary_local_tasks
+theme: whitelabel
 region: content
 weight: -4
 provider: null
